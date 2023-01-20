@@ -1,4 +1,4 @@
-package moneycalculator;
+package main;
 
 import control.Command;
 import java.awt.BorderLayout;
